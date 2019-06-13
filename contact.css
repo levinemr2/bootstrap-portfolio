@@ -6,7 +6,9 @@
 
 .card{
     background: #4aaaa5;
-    color: white
+    color: white;
+    margin: 20px;
+    margin-bottom: 50px;
 }
 
 body {
